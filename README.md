@@ -20,3 +20,4 @@ Dere får ikke en oppskrift steg-for-steg – dere må selv finne ut hvordan man
 
 4. Finn URL-en til nettsiden deres og test at den fungerer i nettleseren.
 
+5. Slett bucket og innhold ! 
