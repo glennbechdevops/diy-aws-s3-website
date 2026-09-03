@@ -3,6 +3,8 @@
 I denne oppgaven skal dere bruke **Amazon S3** til å publisere en enkel nettside.  
 Dere får ikke en oppskrift steg-for-steg – dere må selv finne ut hvordan man setter opp en bucket for dette formålet.  
 
+Bruk gjerne informasjon fra tidligere øvinger. Start gjerne med en fork av dette repoet.
+
 ---
 
 ## Oppgavebeskrivelse
