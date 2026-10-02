@@ -9,6 +9,8 @@ Bruk gjerne informasjon fra tidligere øvinger. Start gjerne med en fork av dett
 
 ## Oppgavebeskrivelse
 
+Dere kan gjøre oppgaven i AWS Console, I terminal / codespace eller fra egen maskin.
+
 1. Opprett en ny **S3 bucket** som skal brukes til nettsiden.
    - Husk at navnet på bucketen må være unikt i hele AWS.  
    - Tenk gjennom hvilke innstillinger som er nødvendige for at den skal kunne brukes som en nettside.
